@@ -130,10 +130,11 @@ margin-left:10vw;
 .footer{
 background-color:#028C36;
 color:white;
-margin-top:50px;u
+margin-top:50px;
 padding:0;
 height:30vh;
 width:100vw;
+overflow-y:auto;
 }
 .bottom{
 list-style-type:none;
@@ -158,3 +159,4 @@ margin-top:4vh;
 text-decoration:underline;
 
 }
+
